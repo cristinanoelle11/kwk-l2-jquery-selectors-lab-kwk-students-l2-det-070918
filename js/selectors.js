@@ -5,5 +5,5 @@ function h1Selector() {
 }
 
 function liInOlSelector(){
-  return $('li, ol');
+  return $('ol li');
 }
