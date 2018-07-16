@@ -8,5 +8,5 @@ function liInOlSelector(){
   return $('ol li');
 }
 function linkSelector (){
-  return$("#box5.boxs a")
+  return$("#box5.box4 a")
 }
