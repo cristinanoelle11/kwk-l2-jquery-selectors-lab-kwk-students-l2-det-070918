@@ -14,5 +14,5 @@ function imageSelector (){
   return $('img[alt="cat sleeping"]');
 }
 function checkbocInputSelectors (){
-  return $('input')
+  return $('input[type="checkbox"]');
 }
